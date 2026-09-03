@@ -1,6 +1,7 @@
 
 ## Ex 01 -Simple Web Server using Spring Boot
-
+### Name: GOGINENI BIDHISHA
+### Reg No: 212223040048
 ## AIM:
 To develop a Simple Web Server using Spring Boot that can handle basic HTTP requests and return appropriate responses through RESTful endpoints.
 ## ALGORITHM:
@@ -130,6 +131,10 @@ public class HelloController {
 
 
 
-Output:
+## Output:
+<img width="1918" height="1027" alt="Screenshot 2026-09-03 234235" src="https://github.com/user-attachments/assets/10fb6fc1-79ec-44e4-8f6f-724b0c1699ab" />
 
+
+## Result:
+Thus, a simple web server using Spring Boot was successfully developed and tested using a RESTful GET endpoint.
 
